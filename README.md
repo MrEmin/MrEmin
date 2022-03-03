@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammeteminozdemir/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="muhammeteminozdemir" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/mrEmin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" alt="mrEmin" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/emindev" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" alt="emindev" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Technologies:</h3>
