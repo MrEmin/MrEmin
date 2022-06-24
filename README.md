@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React.js, Node.js, Javascript, Go etc.**
 
-- 📫 How to reach me **emuhammet.ozdemir@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammeteminozdemir/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="muhammeteminozdemir" height="30" width="30" /></a>
