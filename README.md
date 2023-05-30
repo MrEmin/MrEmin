@@ -32,8 +32,4 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrEmin&show_icons=true&theme=radical&locale=en&layout=compact" alt="MrEmin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrEmin&show_icons=true&theme=dark&locale=en" alt="MrEmin" width="50%" /></p>
-
 <p> <img src="https://komarev.com/ghpvc/?username=MrEmin&style=flat&color=brightgreen" alt="MrEmin" /></p>
