@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Muhammet Emin</h1>
 <h3 align="center">A Junior Frontend Developer from Turkey</h3>
 
@@ -7,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammeteminozdemir/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="muhammeteminozdemir" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/muhammeteminozdemir/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="muhammeteminozdemir" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/emindev" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" alt="emindev" height="30" width="30" /></a>
 </p>
 
